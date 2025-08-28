@@ -1,0 +1,24 @@
+{
+  "ChromeLauncher": {
+    "Chrome Beta x64 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/ChromeLauncher/Chrome%20Beta%20x64%20Launcher.exe",
+    "Chrome Beta x86 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/ChromeLauncher/Chrome%20Beta%20x86%20Launcher.exe",
+    "Chrome Canary x64 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/ChromeLauncher/Chrome%20Canary%20x64%20Launcher.exe",
+    "Chrome Canary x86 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/ChromeLauncher/Chrome%20Canary%20x86%20Launcher.exe",
+    "Chrome Dev x64 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/ChromeLauncher/Chrome%20Dev%20x64%20Launcher.exe",
+    "Chrome Dev x86 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/ChromeLauncher/Chrome%20Dev%20x86%20Launcher.exe",
+    "Chrome Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/ChromeLauncher/Chrome%20Launcher.exe",
+    "Chrome Stable x64 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/ChromeLauncher/Chrome%20Stable%20x64%20Launcher.exe",
+    "Chrome Stable x86 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/ChromeLauncher/Chrome%20Stable%20x86%20Launcher.exe"
+  },
+  "EdgeLauncher": {
+    "Edge Beta x64 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/EdgeLauncher/Edge%20Beta%20x64%20Launcher.exe",
+    "Edge Beta x86 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/EdgeLauncher/Edge%20Beta%20x86%20Launcher.exe",
+    "Edge Canary x64 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/EdgeLauncher/Edge%20Canary%20x64%20Launcher.exe",
+    "Edge Canary x86 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/EdgeLauncher/Edge%20Canary%20x86%20Launcher.exe",
+    "Edge Dev x64 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/EdgeLauncher/Edge%20Dev%20x64%20Launcher.exe",
+    "Edge Dev x86 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/EdgeLauncher/Edge%20Dev%20x86%20Launcher.exe",
+    "Edge Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/EdgeLauncher/Edge%20Launcher.exe",
+    "Edge Stable x64 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/EdgeLauncher/Edge%20Stable%20x64%20Launcher.exe",
+    "Edge Stable x86 Launcher": "https://raw.githubusercontent.com/lenzcomvth/GithubWebBrowseLauncherData/main/EdgeLauncher/Edge%20Stable%20x86%20Launcher.exe"
+  }
+}
